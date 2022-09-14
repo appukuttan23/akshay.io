@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
+    int appu;
+    cout<<"Pranavam Hostel";
     int count = 0;
     vector<int> v1 = {1, 2, 3, 6, 7, 7};
 
